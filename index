@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Will you be my Valentine?</title>
+<style>
+  body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background: #ffe6f0; color: #d63384; }
+  h1 { font-size: 2.5em; margin-bottom: 20px; }
+  p { font-size: 1.2em; margin-bottom: 40px; }
+  .button { background-color: #ff4da6; color: white; padding: 15px 30px; text-decoration: none; font-size: 1.2em; border-radius: 10px; }
+  .button:hover { background-color: #e60073; }
+</style>
+</head>
+<body>
+  <h1>💖 Will you be my Valentine? 💖</h1>
+  <p>Hey you 🤍 I was wondering… will you be my Valentine? 🌹</p>
+  <a class="button" href="https://wa.me/6588892508?text=Yes%20💖%20I%20will%20be%20your%20Valentine" target="_blank">
+    💌 Yes, I’d love 💕
+  </a>
+</body>
+</html>
